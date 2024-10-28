@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">(Node.js | | AWS | Angular | Typescript | Javascript | HTML | CSS ) 🚀<br><br>👩‍💻 Fullstack Software Enginner <br>🏆 Angular Expert<br>🎥 Tech content producer, I create programming content on my YouTube Channel and share informative content on my Instagram.<br>🎓 Computer Science Student @ UFSC<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
+<p align="left">(Node.js | AWS | Angular | Typescript | Javascript | HTML | CSS ) 🚀<br><br>👩‍💻 Fullstack Software Enginner <br>🏆 Angular Expert<br>🎥 Tech content producer, I create programming content on my YouTube Channel and share informative content on my Instagram.<br>🎓 Computer Science Student @ UFSC<br>🌐 Passionate about web development<br>💡 Love a good challenge</p>
 
 ###
 
